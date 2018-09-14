@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="login_successfully_email"> Email =</string>
+    <string name="logout">LOGOUT</string>
+    <string name="name">Name</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="login">login</string>
+</resources>
